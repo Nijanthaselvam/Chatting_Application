@@ -1,0 +1,17 @@
+.row{
+    width:100%;
+   
+    padding: 0;
+    margin: 0;
+}
+.col-1{
+    width: 49%;
+    
+    float: left;
+}
+
+.col-2{
+    width: 49%;
+    
+    float: right;
+}

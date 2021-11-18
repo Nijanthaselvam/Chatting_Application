@@ -1,0 +1,46 @@
+.container{
+    width: 97%;
+    height: 50px;
+    /* border: 1px solid; */
+    background-color: greenyellow;
+    padding: 5px;
+}
+
+.align{
+    border-radius: 50%;
+    float: left;
+}
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    margin-left: 30px;
+    box-shadow: 5px 10px 18px #888888;
+    width:45%
+}
+
+
+.msg-container{
+    /* border: 1px solid; */
+    height: 40vh;
+    overflow-x: scroll;
+    width: 46.3vh;
+}
+
+.nija{
+    text-align: right;
+    margin-right: 15px;
+   
+}
+
+.label{
+    width:220px;
+    height:30px;
+    padding: 0px 0px;
+}
+
+.btn{
+    height: 33.5px;
+    width:65px;
+    padding: 0px 0px;
+}
